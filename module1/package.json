@@ -2,7 +2,7 @@
   "name": "module1",
   "version": "0.0.0",
   "description": "prueba de proyecto con release",
-  "main": "index-2.js",
+  "main": "src/index-2.js",
   "scripts": {
     "lint-fix": "echo \"lint-fix-1\"",
     "test": "echo \"test-1\"",
