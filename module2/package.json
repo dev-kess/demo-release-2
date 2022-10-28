@@ -1,0 +1,12 @@
+{
+  "name": "module2",
+  "version": "0.0.0",
+  "description": "prueba de proyecto con release",
+  "main": "src/index-2.js",
+  "scripts": {
+    "lint-fix": "echo \"lint-fix-1\"",
+    "test": "echo \"test-1\"",
+    "build": "echo \"build-1\"",
+    "release": "echo \"release-1\""
+  }
+}
