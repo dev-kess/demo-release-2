@@ -31,7 +31,6 @@
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
       "draft": false,
-      "prerelease": true,
       "include-v-in-tag": false
     },
     "module4": {
@@ -40,7 +39,6 @@
       "bump-minor-pre-major": true,
       "bump-patch-for-minor-pre-major": true,
       "draft": false,
-      "prerelease": true,
       "include-v-in-tag": false,
       "release-as": "0.1.0"
     }
