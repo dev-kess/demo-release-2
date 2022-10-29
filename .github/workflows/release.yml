@@ -16,4 +16,5 @@ jobs:
       with:
         token: ${{ secrets.DEV_TOKEN }}
         command: manifest
+        allowUpdates: true
         
