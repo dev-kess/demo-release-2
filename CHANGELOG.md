@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/dev-kess/demo-release-2/compare/demo-release-v1.2.0...demo-release-v1.3.0) (2022-10-29)
+
+
+### Features
+
+* modulo 3 ([81f5f87](https://github.com/dev-kess/demo-release-2/commit/81f5f87271f258ad169b9b54babd6d0f00ced84e))
+
 ## [1.2.0](https://github.com/dev-kess/demo-release-2/compare/demo-release-v1.1.0...demo-release-v1.2.0) (2022-10-28)
 
 
