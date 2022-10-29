@@ -19,8 +19,8 @@
     "module2": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true,
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
       "draft": false,
       "prerelease": false,
       "include-v-in-tag": false
@@ -28,8 +28,8 @@
     "module3": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true,
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
       "draft": false,
       "prerelease": false,
       "include-v-in-tag": false
@@ -37,8 +37,8 @@
     "module4": {
       "changelog-path": "CHANGELOG.md",
       "release-type": "node",
-      "bump-minor-pre-major": true,
-      "bump-patch-for-minor-pre-major": true,
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
       "draft": false,
       "prerelease": false,
       "include-v-in-tag": false,
